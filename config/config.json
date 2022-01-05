@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdDD70b34652dC626d2329E7CBDD7D27e2cd5b9f8",
+  "SCAN_LINK": "https://etherscan.io/token/0xdDD70b34652dC626d2329E7CBDD7D27e2cd5b9f8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Project Sandlot",
+  "SYMBOL": "PoB",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 42000000000000000,
+  "DISPLAY_COST": 0.042,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/projectsandlot",
+  "SHOW_BACKGROUND": true
+}
